@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/management_contact"
+        android:title="Gestion Contactos"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/management_pet"
+        android:title="Gestion Mascotas"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/list_pet"
+        android:title="Gatos en Adoptción"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/list_contact"
+        android:title="Contactos"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/login_contact"
+        android:title="Login"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/create_account_contact"
+        android:title="Registrate"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/publish_pet"
+        android:title="Publicar Mascota"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/provider_menu"
+        android:title="Proveedor"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="never" />
+</menu>

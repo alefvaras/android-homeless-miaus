@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Crear stylo para button. -->
+
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+        <!-- Alterar estados del button android:colorControlHighlight-> efecto de agua. -->
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@color/textColorWhite</item>
+
+    </style>
+    <!-- Crear stylo para Editext Blanco -->
+
+    <style name="EdidTextWhite" parent="TextAppearance.AppCompat">
+
+
+        <item name="android:textColorHint">@color/textColorWhite</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorPrimary">@color/textColorWhite</item>
+        <item name="colorAccent">@color/textColorWhite</item>
+        <item name="colorControlNormal">@color/textColorWhite</item>
+        <item name="colorControlActivated">@color/textColorWhite</item>
+    </style>
+    <!-- Crear stylo para Editext Nengro-->
+
+    <style name="EdidTextBlack" parent="TextAppearance.AppCompat">
+
+
+        <item name="android:textColorHint">@color/textColorBlack</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorPrimary">@color/textColorBlack</item>
+        <item name="colorAccent">@color/textColorBlack</item>
+        <item name="colorControlNormal">@color/textColorBlack</item>
+        <item name="colorControlActivated">@color/textColorBlack</item>
+    </style>
+
+
+</resources>

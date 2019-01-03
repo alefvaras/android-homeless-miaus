@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homeless Miaus</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account"></string>
+    <string name="create_here"></string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_use">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crate Account</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Email</string>
+    <string name="name_pet">Nombre</string>
+    <string name="plikes">0 Likes</string>
+    <string name="sex">Sexo</string>
+    <string name="likes"> Likes</string>
+
+    <string name="text_button_createaccount_pet">Publicar</string>
+    <string name="agePet">Edad</string>
+    <string name="description">Descripión</string>
+    <string name="toolbar_tittle_createaccount_pet">Publicar Mascota</string>
+    <string name="password">Contraseña</string>
+    <string name="toolbar_tittle_management_contact">Gestion de contacto</string>
+    <string name="text_button_update">Actualizar</string>
+    <string name="text_button_detelete">Delete</string>
+    <string name="toolbar_tittle_management_pet">Gestion de mascotas</string>
+    <string name="likenumbercard_card">Me Gusta</string>
+    <string name="toolbar_tittle_homeless">Homeless Miauss</string>
+    <string name="name_provider">Nombre empresa</string>
+    <string name="razon_social">Razon social</string>
+    <string name="address">Dirección</string>
+    <string name="turn">Giro</string>
+    <string name="text_button_save">Guardar Proveedor</string>
+    <string name="toolbar_tittle_management_provider">Gestion Proveedores</string>
+    <string name="welcome">Bienvenido a</string>
+
+
+</resources>
